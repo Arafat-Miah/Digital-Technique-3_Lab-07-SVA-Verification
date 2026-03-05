@@ -1,4 +1,4 @@
-# SystemVerilog Assertions for I²S Unit (Lab 07)
+# SystemVerilog Whitebox Assertions for I²S Unit (Lab 07)
 
 ## Repository
 **Recommended name:** `Digital-Technique-3_Lab-07-SVA-Verification`
